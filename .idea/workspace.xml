@@ -4,11 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecf53560-c837-45b3-bddc-896e7c5061a3" name="Changes" comment="" />
+    <list default="true" id="ecf53560-c837-45b3-bddc-896e7c5061a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/PetrolEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/PetrolEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/StartEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/StartEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Volume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/StraightLline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/StraightLline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/SpeedCalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/SpeedCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosedPrinciple/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/CalculateSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/CalculateSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -22,9 +59,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.DependencyInversionPrinciple" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

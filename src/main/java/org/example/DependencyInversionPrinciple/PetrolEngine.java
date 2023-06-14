@@ -1,2 +1,12 @@
-package org.example.DependencyInversionPrinciple;public class PetrolEngine {
+package org.example.DependencyInversionPrinciple;
+
+/**
+ * Класс описывающий поведение бензинового двигателя
+ */
+public class PetrolEngine implements StartEngine{
+
+    @Override
+    public void start() {
+
+    }
 }

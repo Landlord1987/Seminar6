@@ -1,2 +1,8 @@
-package org.example.InterfaceSegregationPrinciple;public interface Area {
+package org.example.InterfaceSegregationPrinciple;
+
+/**
+ * Интерфейс вычисления площади
+ */
+public interface Area {
+    double area();
 }

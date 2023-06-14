@@ -1,6 +1,8 @@
 package org.example.InterfaceSegregationPrinciple;
 
-public interface Shape {
-    double area();
+/**
+ * Интерфейс вычисления объема
+ */
+public interface Volume {
     double volume();
 }
